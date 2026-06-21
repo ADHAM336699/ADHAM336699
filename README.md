@@ -14,7 +14,6 @@
 ---
 
 ## 📂 Projects
-- 🔢 **Sorting Algorithms Visualizer** (C++ / JS)  
 - 🌐 **Personal Portfolio Website** (HTML / CSS / JS)  
 - 🧮 **Algorithm Practice** (Problem-solving in C++)
 
