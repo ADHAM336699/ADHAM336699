@@ -1,27 +1,28 @@
 # 👋 Hi there, I'm Adham Walid
 
-🎓 Computer Science student at Zagazig University  
-💻 Passionate about programming, problem-solving, and building creative projects  
+🎓 **Computer Science Student** at Zagazig University  
+💻 Passionate about **Web Development** & **Problem Solving**  
+🚀 Always learning and building cool projects  
 
 ---
 
-## 🧩 Skills & Technologies
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
-- ⚙️ **Programming:** C++, Python  
-- 🧠 **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms  
+## 🛠️ Skills & Technologies
+- 🌐 **Frontend:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ⚙️ **Programming:** ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-green)
+- 🧠 **Concepts:** OOP | Data Structures | Algorithms
 
 ---
 
-## 🚀 What I'm Working On
-- Building small web projects using HTML, CSS, and JS  
-- Practicing algorithmic problem-solving in C++  
-- Exploring Operating Systems and computer architecture concepts  
+## 📂 Projects
+- 🔢 **Sorting Algorithms Visualizer** (C++ / JS)  
+- 🌐 **Personal Portfolio Website** (HTML / CSS / JS)  
+- 🧮 **Algorithm Practice** (Problem-solving in C++)
 
 ---
 
-## 📚 Learning Goals
-- Deepen my understanding of advanced algorithms  
-- Improve my frontend development skills with React  
+## 🎯 Learning Goals
+- Master advanced algorithms & data structures  
+- Improve frontend skills with modern frameworks (React)  
 - Contribute to open-source projects  
 
 ---
@@ -32,5 +33,4 @@
 
 ---
 
-⭐ **"Code is like art — every line tells a story."**
-
+⭐ *"Code is like art — every line tells a story."*
